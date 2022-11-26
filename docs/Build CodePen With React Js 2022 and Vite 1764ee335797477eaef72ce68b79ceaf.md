@@ -227,3 +227,75 @@ export default defineConfig({
   plugins: [react()]
 })
 ```
+
+⬅️ ⏮️
+
+[How To Build CodePen With React](https://youtu.be/wcVxX7lu2d4?t=190)
+
+[CodeMirror](https://codemirror.net/)
+
+[react-codemirror2](https://www.npmjs.com/package/react-codemirror2)
+
+```bash
+npm i codemirror react-codemirror2
+```
+
+![Untitled](Build%20CodePen%20With%20React%20Js%202022%20and%20Vite%201764ee335797477eaef72ce68b79ceaf/Untitled%2013.png)
+
+[codemirror](https://www.npmjs.com/package/codemirror)
+
+```bash
+npm i codemirror
+```
+
+![Untitled](Build%20CodePen%20With%20React%20Js%202022%20and%20Vite%201764ee335797477eaef72ce68b79ceaf/Untitled%2014.png)
+
+[react-codemirror2](https://www.npmjs.com/package/react-codemirror2)
+
+```bash
+npm i react-codemirror2
+```
+
+![Untitled](Build%20CodePen%20With%20React%20Js%202022%20and%20Vite%201764ee335797477eaef72ce68b79ceaf/Untitled%2015.png)
+
+```bash
+npm install react-codemirror2 codemirror --save
+```
+
+![Untitled](Build%20CodePen%20With%20React%20Js%202022%20and%20Vite%201764ee335797477eaef72ce68b79ceaf/Untitled%2016.png)
+
+**[React Codemirror2 does not install - Stack Overflow**https://stackoverflow.com › questions › react-codemirro...](https://stackoverflow.com/questions/70903473/react-codemirror2-does-not-install)
+
+Jan 29, 2022 — When I try to install ***react***-***codemirror2*** it gave an error and doesn't install in my app (my react version is @17.0.2) Why it doesn't install?
+
+**[3 answers](https://stackoverflow.com/a/70904819)** · Top answer: If anyone else has the same problem like me He/she can just install "react-codemirror2-react-17" ...
+
+***[react***-***codemirror2*** has no CSS effect](https://stackoverflow.com/questions/51826469/react-codemirror2-has-no-css-effect)
+
+Aug 13, 2018
+
+***[CodeMirror*** editor duplicating - javascript](https://stackoverflow.com/questions/72464452/codemirror-editor-duplicating)
+
+Jun 1, 2022
+
+[How to get a value from code mirror in ***react*** js?](https://stackoverflow.com/questions/72659453/how-to-get-a-value-from-code-mirror-in-react-js)
+
+Jun 17, 2022
+
+***[react***-***codemirror2*** creating two editors](https://stackoverflow.com/questions/73518247/react-codemirror2-creating-two-editors)
+
+Aug 28, 2022
+
+[More results from stackoverflow.com](https://www.google.com/search?q=react-codemirror2+site:stackoverflow.com&sxsrf=ALiCzsYZ6fFB1RpXtZGzlQURncbyFEahsg:1669432081741&sa=X&ved=2ahUKEwiAuNWR78r7AhUN1zgGHXumD2MQrQIoBHoECD0QBQ)
+
+[React Codemirror2 does not install](https://stackoverflow.com/questions/70903473/react-codemirror2-does-not-install)
+
+```bash
+npm install react-codemirror2 --legacy-peer-deps
+```
+
+![Untitled](Build%20CodePen%20With%20React%20Js%202022%20and%20Vite%201764ee335797477eaef72ce68b79ceaf/Untitled%2017.png)
+
+![Untitled](Build%20CodePen%20With%20React%20Js%202022%20and%20Vite%201764ee335797477eaef72ce68b79ceaf/Untitled%2018.png)
+
+[How To Build CodePen With React](https://youtu.be/wcVxX7lu2d4?t=289)
